@@ -3,7 +3,7 @@ export default function Home() {
     <div className="flex min-h-screen items-center justify-center bg-gradient-to-br from-slate-50 to-slate-100 p-6">
       <div className="w-full max-w-md space-y-8 text-center">
         <h1 className="text-4xl font-bold tracking-tight text-slate-900">
-          안녕하세요! 제 첫 번째 배포입니다 🚀
+          안녕하세요! 제 두 번째 배포(Preview)입니다 🚀
         </h1>
 
         <div className="rounded-2xl bg-white p-8 shadow-lg ring-1 ring-slate-200">

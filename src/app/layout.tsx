@@ -14,7 +14,7 @@ const geistMono = Geist_Mono({
 
 export const metadata: Metadata = {
   title: "My First App",
-  description: "안녕하세요! 제 첫 번째 배포입니다",
+  description: "안녕하세요! 제 두 번째 배포(Preview)입니다",
 };
 
 export default function RootLayout({
